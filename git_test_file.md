@@ -11,3 +11,5 @@ Markdown abilities:
 ## Lists
 * Bulleted
 * Lists
+1. Numbered
+2. Lists
