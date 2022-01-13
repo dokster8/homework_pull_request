@@ -9,3 +9,5 @@ Markdown abilities:
 
 ~~Crossed out text~~
 ## Lists
+* Bulleted
+* Lists
