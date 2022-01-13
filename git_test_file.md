@@ -3,5 +3,7 @@ Markdown abilities:
 ## Text hightlighting
 *Italics*
 
+**Bold**
+
 
 ## Lists
