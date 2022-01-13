@@ -1,1 +1,5 @@
-First time git testing
+# First time git testing
+
+## Text formatting
+
+## Lists
