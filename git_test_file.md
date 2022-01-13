@@ -7,5 +7,5 @@ Markdown abilities:
 
 `Highlighted by color`
 
-
+~~Crossed out text~~
 ## Lists
