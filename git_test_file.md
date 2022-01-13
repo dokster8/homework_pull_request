@@ -5,5 +5,7 @@ Markdown abilities:
 
 **Bold**
 
+`Highlighted by color`
+
 
 ## Lists
