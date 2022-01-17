@@ -36,5 +36,11 @@
 >git branch
 * Для создания ветки branch_name:
 >git branch branch_name
-* Переместиться к ветке branch_name
+* Переместиться к ветке branch_name:
 >git checkout branch_name
+
+## Удаление веток
+* Удалить ветку с именем "branch_name":
+>git branch -d branch_name
+* Удалить ветку игнорируя отсутствие слияния:
+>git branch -D branch_name
