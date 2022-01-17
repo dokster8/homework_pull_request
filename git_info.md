@@ -24,9 +24,17 @@
 
 * Показать разницу, между текущей и зафиксированной версией:
 >git diff
-# Переход между коммитами
+## Переход между коммитами
 * Переход к коммиту по его коду "com_code" (можно посмотреть в git log):
 > git checkout com_code
 
 Вернуться в актуальное состояние кода:
 >git checkout master
+
+## Ветки в git
+* Посмотреть все ветки:
+>git branch
+* Для создания ветки branch_name:
+>git branch branch_name
+* Переместиться к ветке branch_name
+>git checkout brunch_name
