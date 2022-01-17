@@ -37,4 +37,4 @@
 * Для создания ветки branch_name:
 >git branch branch_name
 * Переместиться к ветке branch_name
->git checkout brunch_name
+>git checkout branch_name
