@@ -1,15 +1,22 @@
 # First time git testing
-Markdown abilities:
-## Text hightlighting
-*Italics*
+## Markdown abilities:
+### Text hightlighting
+Для использования курсива, обрамите текст звездочками
+>*Italics*
 
-**Bold**
+Для использования полужирного выделения, обрамите текст двойными звездочками
+>**Bold**
 
-`Highlighted by color`
+Для использования цветового выделения, обрамите текст символом `
+>`Highlighted by color`
 
-~~Crossed out text~~
-## Lists
-* Bulleted
-* Lists
-1. Numbered
-2. Lists
+Для зачёркивания, обрамите текст двойным символом ~
+>~~Crossed out text~~
+### Lists
+Для создания маркированных списков используйте одну звёздочку в начале строки
+>* Bulleted
+>* Lists
+
+Для создания маркированных списков используйте нужную цифру с точкой в начале строки
+>1. Numbered
+>2. Lists
